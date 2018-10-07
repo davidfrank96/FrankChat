@@ -1,0 +1,10 @@
+{
+	"dbURL":"mongodb://Frankchat:esther1996@ds243812.mlab.com:43812/frankchat",
+	"sessionSecret":"Frankenstein",
+	"fb":{
+		"appID":"165252847739610",
+		"appSecret":"f7b58f1769b60bdcce0e2a62252dbdc1",
+		"callbackURL":"http://localhost:3000/auth/facebook/callback"
+	},
+	"host":"http://localhost:3000"
+}
